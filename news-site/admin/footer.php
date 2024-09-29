@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-            <span style="color: black;">News-Site Project 2021</span>
+            <span style="color: black;">News-Site Project 2024</span>
             </div>
         </div>
     </div>
